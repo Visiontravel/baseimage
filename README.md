@@ -1,4 +1,4 @@
-# A minimal Ubuntu base image modified for Docker-friendliness
+# A minimal Ubuntu base image modified for Docker-friendliness.
 
 [![](https://badge.imagelayers.io/phusion/baseimage:latest.svg)](https://imagelayers.io/?images=phusion/baseimage:latest 'Get your own badge on imagelayers.io')
 [![Travis](https://img.shields.io/travis/phusion/baseimage-docker.svg)](https://travis-ci.org/phusion/baseimage-docker)
